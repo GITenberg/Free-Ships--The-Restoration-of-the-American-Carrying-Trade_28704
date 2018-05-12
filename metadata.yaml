@@ -1,0 +1,27 @@
+_repo: Free-Ships--The-Restoration-of-the-American-Carrying-Trade_28704
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Codman, John
+    birthdate: 1814
+    deathdate: 1900
+    gutenberg_agent_id: '33498'
+    url: http://www.gutenberg.org/2009/agents/33498
+description: ''
+gutenberg_issued: '2009-05-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28704'
+  lccn: 05019466
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Merchant marine -- United States'
+- !lcc 'HE'
+title: 'Free Ships: The Restoration of the American Carrying Trade'
+url: http://www.gutenberg.org/ebooks/28704
